@@ -1,1 +1,1 @@
-# ThaparSummerSchool
+# Image to Text-OCR	
